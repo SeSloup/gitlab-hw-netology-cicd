@@ -8,8 +8,10 @@
 Используя свой аккаунт на GitHub, сделайте себе форк репозитория. В этом же репозитории находится дополнительный материал для выполнения ДЗ.
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-![alt text](https://github.com/SeSloup/gitlab-hw-netology-git/blob/main/screens/Screenshot%20from%202024-04-08%2018-32-04.png)
-
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/1-0.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/1-1.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/1-2.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/1-3.png)
 
 Задание 2
 Что нужно сделать:
@@ -18,7 +20,8 @@
 Перепишите сборку из задания 1 на declarative в виде кода.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![alt text](https://github.com/SeSloup/gitlab-hw-netology-git/blob/main/screens/Screenshot%20from%202024-04-08%2018-32-04.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/2-1.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/2-2.png)
 
 Задание 3
 Что нужно сделать:
@@ -29,7 +32,9 @@
 Загрузите файл в репозиторий с помощью jenkins.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![alt text](https://github.com/SeSloup/gitlab-hw-netology-git/blob/main/screens/Screenshot%20from%202024-04-08%2018-32-04.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/3-1.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/3-2.png)
+![alt text](https://github.com/SeSloup/gitlab-hw-netology-cicd/blob/main/screens/3-3.png)
 
 
    
